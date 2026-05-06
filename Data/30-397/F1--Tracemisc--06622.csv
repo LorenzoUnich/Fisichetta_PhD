@@ -1,0 +1,8 @@
+LECROYHDO6104B,11090,Waveform
+Segments,1,SegmentSize,3
+Segment,TrigTime,TimeSinceSegment1
+#1,04-May-2026 18:33:49,0                 
+Time,Ampl
+999997,0.0057979701
+999998,0.016719852
+999999,0.0090132281
